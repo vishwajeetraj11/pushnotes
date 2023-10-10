@@ -1,7 +1,9 @@
+import { Input } from "@/components/input";
+import { Textarea } from "@/components/textarea";
 import React from "react";
 
-const page = () => {
-  return <div>page</div>;
+const CreateTask = () => {
+  return <div>Tasks Listing</div>;
 };
 
-export default page;
+export default CreateTask;
